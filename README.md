@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MsKWB
 - 👀 I’m interested in Data Analysis and Visualizatio
-- 🌱 I’m currently learning Advanced data Analysis in Excel
+- 🌱 I’m currently learning Advanced data Analysis in Excel, Python and R
 - 💞️ I’m looking to collaborate on Data Analyst 
 - 📫 How to reach me meshack.wambua.kyulu@gmail.com
 -
